@@ -1,6 +1,6 @@
 Kerala
-Andhra 
-Karnataka 
+WestBengal
+Meghalaya 
 TamilNadu 
 telangana 
 Uttarakhand 
