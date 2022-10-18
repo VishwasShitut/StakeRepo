@@ -1,6 +1,6 @@
-Indore 
-Mumbai 
-Delhi 
+Chennai  
+Bangaluru
+Hyderabad 
 Jaipur 
 Ludhiana 
 Amrutsar 
