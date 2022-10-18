@@ -5,5 +5,4 @@ Kashmir
 Pondicherry 
 Daman 
 Dadara 
-Andaman 
-Lakshadweep
+
