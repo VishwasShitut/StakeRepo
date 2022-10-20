@@ -5,4 +5,6 @@ Kashmir
 Pondicherry 
 Daman 
 Dadara 
-
+Laddkah 
+Sikkim 
+Arunachal 

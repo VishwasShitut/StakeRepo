@@ -7,3 +7,5 @@ Ludhiana
 Amrutsar 
 Jammu 
 Lucknow 
+Udaipur
+Jalandhar 
